@@ -1,0 +1,26 @@
+# COMP1844 - Information Analysis and Visualisation
+# Required Python Libraries for Data Analysis
+
+# Core Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Manipulation & Analysis
+pandas>=2.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Interactive Development Environment
+notebook>=7.0.0
+ipykernel>=6.22.0
+jupyterlab>=4.0.0
+
+# Math & Statistics
+sympy>=1.12           # Symbolic mathematics (useful for equations)
+
+# Utility Libraries
+python-dateutil>=2.8.2
+pytz>=2023.3
